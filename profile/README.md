@@ -1,5 +1,5 @@
 ## Welcome to Rural Schools Water Project 👋
-We are a UK charity working with partners in eastern Uganda to deliver data-driven water solutions for rural schools.
+We are a small charity using data and technology to build solutions for schools and communities facing water crises.
 
 <!--
 
